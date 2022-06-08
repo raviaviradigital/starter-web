@@ -3,7 +3,7 @@
 
 # TEAM
 
-   ravikiran
+   ravikiran 
 
 # THANKS
 
@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3 , python
     jQuery, Modernizr
