@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+Add 1 line from master branch
+
 ## Purpose
 
 Sample website with plenty of files for demos
