@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 We deploy usin aws and google cloud
 
 ### Copyright
-ravi@2022
+ravi@2025
