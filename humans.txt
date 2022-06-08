@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3 , python3,ruby
+    HTML5, CSS3 , python , java11
     jQuery, Modernizr
